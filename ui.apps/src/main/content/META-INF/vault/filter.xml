@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/ucs-exercise-leny/clientlibs"/>
+    <filter root="/apps/ucs-exercise-leny/components"/>
+    <filter root="/apps/ucs-exercise-leny/i18n"/>
+</workspaceFilter>
